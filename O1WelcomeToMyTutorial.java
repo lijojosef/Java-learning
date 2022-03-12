@@ -11,7 +11,7 @@ import java.io.*;
 /*class contains the data and methods to be used in the program. 
  * Methods define the behavior of the class.*/
 
-public class WelcomeToMyTutorial {
+public class O1WelcomeToMyTutorial {
 
 	/*
 	 * static keyword tells us that this method is accessible without instantiating
